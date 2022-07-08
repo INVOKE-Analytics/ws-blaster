@@ -1,0 +1,20 @@
+2022/07/08-12:13:56.550 15203 Reusing MANIFEST /Users/amerwafiy/Desktop/ws-blasting/Users/amerwafiy/Library/Application Support/Google/Chrome/burner/burner1/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/08-12:13:56.551 15203 Recovering log #250
+2022/07/08-12:13:56.597 15203 Reusing old log /Users/amerwafiy/Desktop/ws-blasting/Users/amerwafiy/Library/Application Support/Google/Chrome/burner/burner1/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000250.log 
+2022/07/08-13:09:53.700 10803 Level-0 table #259: started
+2022/07/08-13:09:53.761 10803 Level-0 table #259: 1207343 bytes OK
+2022/07/08-13:09:53.770 10803 Delete type=0 #250
+2022/07/08-13:09:54.907 6b03 Compacting 1@1 + 5@2 files
+2022/07/08-13:09:55.231 6b03 Generated table #260@1: 41257 keys, 2287200 bytes
+2022/07/08-13:09:55.896 6b03 Generated table #261@1: 38474 keys, 2280338 bytes
+2022/07/08-13:09:56.379 6b03 Generated table #262@1: 66765 keys, 2220126 bytes
+2022/07/08-13:09:56.636 6b03 Generated table #263@1: 57149 keys, 2237876 bytes
+2022/07/08-13:09:56.811 6b03 Generated table #264@1: 42750 keys, 1605995 bytes
+2022/07/08-13:09:56.811 6b03 Compacted 1@1 + 5@2 files => 10631535 bytes
+2022/07/08-13:09:56.826 6b03 compacted to: files[ 0 0 5 0 0 0 0 ]
+2022/07/08-13:09:56.827 6b03 Delete type=2 #259
+2022/07/08-13:09:56.827 6b03 Delete type=2 #255
+2022/07/08-13:09:56.827 6b03 Delete type=2 #254
+2022/07/08-13:09:56.827 6b03 Delete type=2 #256
+2022/07/08-13:09:56.827 6b03 Delete type=2 #253
+2022/07/08-13:09:56.827 6b03 Delete type=2 #252

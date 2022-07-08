@@ -1,0 +1,37 @@
+2022/07/08-12:12:08.292 10603 Reusing MANIFEST /Users/amerwafiy/Desktop/ws-blasting/Users/amerwafiy/Library/Application Support/Google/Chrome/burner/burner3/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/08-12:12:08.294 10603 Recovering log #338
+2022/07/08-12:12:08.350 10603 Reusing old log /Users/amerwafiy/Desktop/ws-blasting/Users/amerwafiy/Library/Application Support/Google/Chrome/burner/burner3/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000338.log 
+2022/07/08-12:12:59.148 15e07 Level-0 table #354: started
+2022/07/08-12:12:59.192 15e07 Level-0 table #354: 1155834 bytes OK
+2022/07/08-12:12:59.201 15e07 Delete type=0 #338
+2022/07/08-12:12:59.216 15e07 Compacting 1@0 + 0@1 files
+2022/07/08-12:12:59.266 15e07 Generated table #355@0: 23100 keys, 579475 bytes
+2022/07/08-12:12:59.270 15e07 Generated table #356@0: 15 keys, 440 bytes
+2022/07/08-12:12:59.270 15e07 Compacted 1@0 + 0@1 files => 579915 bytes
+2022/07/08-12:12:59.276 15e07 compacted to: files[ 0 2 11 0 0 0 0 ]
+2022/07/08-12:12:59.278 15e07 Delete type=2 #354
+2022/07/08-12:12:59.296 15e07 Compacting 1@1 + 10@2 files
+2022/07/08-12:12:59.505 15e07 Generated table #357@1: 31953 keys, 2246254 bytes
+2022/07/08-12:12:59.659 15e07 Generated table #358@1: 51616 keys, 2228590 bytes
+2022/07/08-12:12:59.707 15e07 Generated table #359@1: 4015 keys, 2127134 bytes
+2022/07/08-12:12:59.751 15e07 Generated table #360@1: 389 keys, 2117738 bytes
+2022/07/08-12:12:59.810 15e07 Generated table #361@1: 376 keys, 2113175 bytes
+2022/07/08-12:13:00.042 15e07 Generated table #362@1: 92391 keys, 2239236 bytes
+2022/07/08-12:13:00.126 15e07 Generated table #363@1: 98985 keys, 2248152 bytes
+2022/07/08-12:13:00.214 15e07 Generated table #364@1: 98988 keys, 2247996 bytes
+2022/07/08-12:13:00.329 15e07 Generated table #365@1: 99009 keys, 2248213 bytes
+2022/07/08-12:13:00.515 15e07 Generated table #366@1: 98946 keys, 2247971 bytes
+2022/07/08-12:13:00.541 15e07 Generated table #367@1: 15642 keys, 355532 bytes
+2022/07/08-12:13:00.541 15e07 Compacted 1@1 + 10@2 files => 22419991 bytes
+2022/07/08-12:13:00.550 15e07 compacted to: files[ 0 1 12 0 0 0 0 ]
+2022/07/08-12:13:00.551 15e07 Delete type=2 #348
+2022/07/08-12:13:00.551 15e07 Delete type=2 #349
+2022/07/08-12:13:00.551 15e07 Delete type=2 #342
+2022/07/08-12:13:00.551 15e07 Delete type=2 #343
+2022/07/08-12:13:00.551 15e07 Delete type=2 #355
+2022/07/08-12:13:00.551 15e07 Delete type=2 #341
+2022/07/08-12:13:00.551 15e07 Delete type=2 #350
+2022/07/08-12:13:00.551 15e07 Delete type=2 #344
+2022/07/08-12:13:00.551 15e07 Delete type=2 #345
+2022/07/08-12:13:00.551 15e07 Delete type=2 #347
+2022/07/08-12:13:00.551 15e07 Delete type=2 #346

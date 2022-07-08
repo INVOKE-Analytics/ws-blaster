@@ -1,0 +1,20 @@
+2022/07/08-15:09:54.973 10a03 Reusing MANIFEST /Users/amerwafiy/Desktop/ws-blasting/Users/amerwafiy/Library/Application Support/Google/Chrome/meniaga/fatimah1/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/08-15:09:54.998 10a03 Recovering log #6692
+2022/07/08-15:09:55.062 10a03 Reusing old log /Users/amerwafiy/Desktop/ws-blasting/Users/amerwafiy/Library/Application Support/Google/Chrome/meniaga/fatimah1/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/006692.log 
+2022/07/08-15:09:55.064 10a03 Delete type=2 #6689
+2022/07/08-15:09:55.064 10a03 Delete type=2 #6690
+2022/07/08-15:09:55.064 10a03 Delete type=2 #6691
+2022/07/08-15:09:55.064 10a03 Delete type=2 #6678
+2022/07/08-15:09:55.064 10a03 Delete type=2 #6697
+2022/07/08-15:10:10.974 1ef03 Level-0 table #6725: started
+2022/07/08-15:10:11.018 1ef03 Level-0 table #6725: 1285020 bytes OK
+2022/07/08-15:10:11.033 1ef03 Delete type=0 #6692
+2022/07/08-15:10:11.044 1ef03 Compacting 1@0 + 1@1 files
+2022/07/08-15:10:11.084 1ef03 Generated table #6726@0: 19729 keys, 472262 bytes
+2022/07/08-15:10:11.111 1ef03 Generated table #6727@0: 3679 keys, 241432 bytes
+2022/07/08-15:10:11.120 1ef03 Generated table #6728@0: 2916 keys, 106013 bytes
+2022/07/08-15:10:11.126 1ef03 Generated table #6729@0: 488 keys, 9008 bytes
+2022/07/08-15:10:11.126 1ef03 Compacted 1@0 + 1@1 files => 828715 bytes
+2022/07/08-15:10:11.136 1ef03 compacted to: files[ 0 4 53 0 0 0 0 ]
+2022/07/08-15:10:11.137 1ef03 Delete type=2 #6725
+2022/07/08-15:10:11.137 1ef03 Delete type=2 #6695

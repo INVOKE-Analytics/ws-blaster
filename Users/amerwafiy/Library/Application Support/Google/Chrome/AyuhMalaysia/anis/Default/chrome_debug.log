@@ -1,0 +1,6 @@
+[0701/142540.276054:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source:  (0)
+[0701/142947.757340:WARNING:dns_config_service_posix.cc(195)] Failed to read DnsConfig.
+[0701/142951.416998:WARNING:dns_config_service_posix.cc(195)] Failed to read DnsConfig.
+[0701/142952.184410:WARNING:dns_config_service_posix.cc(195)] Failed to read DnsConfig.
+[0701/152615.348805:WARNING:dns_config_service_posix.cc(195)] Failed to read DnsConfig.
+[0701/152631.024491:WARNING:dns_config_service_posix.cc(195)] Failed to read DnsConfig.
