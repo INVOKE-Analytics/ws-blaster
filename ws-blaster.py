@@ -84,13 +84,13 @@ def open_driver(user_path, headless = True):
     return driver
 
 
-image = Image.open('/Users/amerwafiy/Desktop/Projects/scraper-webapp/invoke_logo.jpg')
+image = Image.open('invoke_logo.jpg')
 st.sidebar.title('Whatsapp Blaster')
 st.sidebar.image(image)
 option1 = st.sidebar.selectbox('Select option', ('Blast Messages', 'Account Management'))
 
 if option1 == 'Blast Messages':
-    st.image('/Users/amerwafiy/Desktop/ws-blasting/ws-logo.png')
+    st.image('ws-logo.png')
 
     option2 = st.selectbox('How do you to want define your contacts to blast?', ('Upload contact file (csv/xlsx)', 'Manual input',))
     
