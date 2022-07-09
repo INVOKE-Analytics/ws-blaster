@@ -1,7 +1,0 @@
-[0701/142556.029198:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
-[0701/142558.074467:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
-[0701/142947.871264:WARNING:dns_config_service_posix.cc(195)] Failed to read DnsConfig.
-[0701/142951.421522:WARNING:dns_config_service_posix.cc(195)] Failed to read DnsConfig.
-[0701/142952.184534:WARNING:dns_config_service_posix.cc(195)] Failed to read DnsConfig.
-[0701/152615.350611:WARNING:dns_config_service_posix.cc(195)] Failed to read DnsConfig.
-[0701/152631.023645:WARNING:dns_config_service_posix.cc(195)] Failed to read DnsConfig.
